@@ -31,7 +31,7 @@ if __name__ == "__main__":
 
     # song number can be 0-3
     song_num = 2
-    bot.createSong(song_num, song3)
+    bot.createSong(song_num, song2)
     time.sleep(0.1)
     how_long = bot.playSong(song_num)
 
